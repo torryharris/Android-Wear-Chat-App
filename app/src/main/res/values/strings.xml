@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Wear_Chat_App</string>
+
+    <string name="speech_prompt">Say something!</string>
+    <string name="speech_not_supported">Speech not supported</string>
+    <string name="yyyyMMdd">yyyyMMdd</string>
+    <string name="HHmm">HH:mm</string>
+    <string name="languageSupport">This Language is not supported</string>
+    <string name="initializationFailed">Initialization Failed!</string>
+    <string name="utteranceId">utteranceId</string>
+    <string name="UniqueID">UniqueID</string>
+    <string name="today">TODAY</string>
+    <string name="yesterday">YESTERDAY</string>
+    <string name="ddMMMyyyy">dd-MMM-yyyy</string>
+
+</resources>
+
+
